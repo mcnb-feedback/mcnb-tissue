@@ -1,0 +1,142 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 314
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 41
+	Country: Portugal ; Times: 6
+	Country: Denmark ; Times: 12
+	Country: Finland ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-25 ; Times: 5
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-06 ; Times: 2
+	Date: 2018-02-04 ; Times: 12
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 11
+	Date: 2018-02-02 ; Times: 4
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-27 ; Times: 5
+	Date: 2018-02-07 ; Times: 4
+	Date: 2018-02-20 ; Times: 4
+	Date: 2018-02-05 ; Times: 4
+	Date: 2018-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:andrias" ; Times: 2
+	Query: "Anas crecca basisofrecord:PreservedSpecimen hastissue:1" ; Times: 3
+	Query: "specificepithet:riparia genus:riparia continent:europe hastissue:1" ; Times: 5
+	Query: "Aythya nyroca basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:malpolon year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra hastissue:1" ; Times: 1
+	Query: "Myiopsitta monachus mappable:1" ; Times: 3
+	Query: "genus:Hierophis year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Netta rufina basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "specificepithet:musculus genus:Mus country:&#34;Spain&#34;" ; Times: 2
+	Query: "genus:Anguis year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Anas penelope basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "&#34;Esox lucius&#34; hastissue:1" ; Times: 1
+	Query: "Anas acuta basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "vntype:specimen specificepithet:pictus genus:Lycaon" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 3
+	Query: "family:Phoenicopteridae hastissue:1" ; Times: 1
+	Query: "Genetta genetta mappable:1" ; Times: 3
+	Query: "Chauna torquata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:monachus genus:Myiopsitta" ; Times: 1
+	Query: "vntype:specimen specificepithet:aluco genus:strix hastissue:1" ; Times: 2
+	Query: "Tragelaphus eurycerus" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 2
+	Query: "Marmaronetta angustirostris basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "iptrecordid:&#34;MCNB:MCNB-Tissue:MZB 2001-0193-T&#34;" ; Times: 4
+	Query: "Aythya fuligula basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo)" ; Times: 1
+	Query: "iptrecordid:&#34;MCNB:MCNB-Tissue:MZB 82-8070-T&#34;" ; Times: 4
+	Query: "genus:alligator (male OR female) hassex:1" ; Times: 1
+	Query: "(Prunella) hastissue:1" ; Times: 1
+	Query: "Marmaronetta angustirostris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cristatus genus:Podiceps hastissue:1" ; Times: 1
+	Query: "viverridae" ; Times: 3
+	Query: "Aix galericulata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "family:Mustelidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1892 download events in this period)
+Total number of records downloaded: 462
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 22
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-20 ; Times: 3
+	Date: 2018-02-24 ; Times: 3
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-13 ; Times: 2
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-01 ; Times: 7
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 2
+	Date: 2018-02-05 ; Times: 4
+	Date: 2018-02-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:andrias" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "specificepithet:atra genus:Fulica" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco hastissue:1" ; Times: 1
+	Query: "family:pelecanidae hastissue:1" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "vntype:specimen genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "specificepithet:excubitor genus:Lanius" ; Times: 1
+	Query: "family:Gaviidae hastissue:1" ; Times: 1
+	Query: "family:Phoenicopteridae hastissue:1" ; Times: 1
+	Query: "specificepithet:monachus genus:Myiopsitta" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "&#34;corvus corax&#34;" ; Times: 1
+	Query: "specificepithet:coturnix genus:Coturnix" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "Larus fuscus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "vntype:specimen genus:otus hastissue:1 NOT (asio)" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+
+
+End of report.

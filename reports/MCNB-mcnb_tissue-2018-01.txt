@@ -1,0 +1,127 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 92
+Number of records retrieved in searches: 303
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Italy ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Denmark ; Times: 50
+	Country: France ; Times: 1
+	Country: United States ; Times: 24
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-31 ; Times: 7
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-02 ; Times: 3
+	Date: 2018-01-10 ; Times: 2
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-15 ; Times: 34
+	Date: 2018-01-14 ; Times: 18
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-16 ; Times: 2
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-30 ; Times: 3
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-26 ; Times: 10
+	Date: 2018-01-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:panthera hastissue:1" ; Times: 5
+	Query: "Bison bonasus bonasus" ; Times: 3
+	Query: "Bubulcus ibis" ; Times: 1
+	Query: "gazella dorcas" ; Times: 1
+	Query: "Ceratotherium simum" ; Times: 3
+	Query: "genus:pongo hastissue:1" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "Sus scrofa" ; Times: 1
+	Query: "hierophis viridiflavus" ; Times: 2
+	Query: "Tadorna tadorna basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Gypaetus" ; Times: 1
+	Query: "Panthera leo bleyenberghi" ; Times: 3
+	Query: "genetta genetta" ; Times: 2
+	Query: "Tapirus terrestris terrestris" ; Times: 4
+	Query: "genus:Sarcoramphus hastissue:1" ; Times: 1
+	Query: "Anser anser vntype:specimen hastissue:1" ; Times: 1
+	Query: "chauna torquata vntype:specimen hastissue:1" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "family:Rhinocerotidae institutioncode:MCNB" ; Times: 1
+	Query: "cettia cetti" ; Times: 1
+	Query: "Panthera tigris tigris" ; Times: 4
+	Query: "Aix galericulata sex:female hassex:1" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 5
+	Query: "Panthera tigris sumatrae" ; Times: 6
+	Query: "Crex Crex" ; Times: 2
+	Query: "Cygnus cygnus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "acinonyx jubatus hastissue:1" ; Times: 1
+	Query: "Panthera tigris" ; Times: 3
+	Query: "andrias" ; Times: 1
+	Query: "Panthera leo leo" ; Times: 3
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "osteolaemus" ; Times: 1
+	Query: "chauna torquata vntype:specimen" ; Times: 1
+	Query: "Rhinechis scalaris" ; Times: 3
+	Query: "Aix galericulata sex:Female hassex:1" ; Times: 1
+	Query: "Cygnus olor sex:male hassex:1" ; Times: 1
+	Query: "Ceratotherium simum simum" ; Times: 3
+	Query: "panthera tigris" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "gbifdatasetid:71cfcf5c-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "Bison bonasus" ; Times: 3
+	Query: "Anser anser basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Cygnus olor basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Panthera leo" ; Times: 3
+	Query: "Sarcoramphus papa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1398 download events in this period)
+Total number of records downloaded: 4401
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Italy ; Times: 9
+	Country: Czechia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-30 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 9
+	Date: 2018-01-25 ; Times: 1
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Acrocephalus" ; Times: 1
+	Query: "Neovison vison" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "genus:Sarcoramphus hastissue:1" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "family:Leporidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "ammotragus lervia" ; Times: 1
+	Query: "specificepithet:glareolus genus:Myodes family:Cricetidae order:Rodentia class:Mammalia year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "class:Aves preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+
+
+End of report.

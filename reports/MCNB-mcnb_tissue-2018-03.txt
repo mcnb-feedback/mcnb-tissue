@@ -1,0 +1,187 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 310
+Number of records retrieved in searches: 3367
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 26
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 267
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 20
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-31 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-01 ; Times: 12
+	Date: 2018-03-02 ; Times: 26
+	Date: 2018-03-03 ; Times: 12
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 28
+	Date: 2018-03-28 ; Times: 24
+	Date: 2018-03-29 ; Times: 7
+	Date: 2018-03-26 ; Times: 53
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-25 ; Times: 11
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-23 ; Times: 6
+	Date: 2018-03-20 ; Times: 22
+	Date: 2018-03-21 ; Times: 17
+	Date: 2018-03-27 ; Times: 59
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cuculus specificepithet:canorus" ; Times: 1
+	Query: "genus:Mandrillus specificepithet:leucophaeus" ; Times: 6
+	Query: "specificepithet:tridactyla genus:Myrmecophaga" ; Times: 1
+	Query: "genus:Lutra specificepithet:lutra" ; Times: 5
+	Query: "genus:Uria class:Aves country:&#34;Spain&#34;" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "genus:Ceratotherium specificepithet:simum" ; Times: 5
+	Query: "circus cyaneus vntype:specimen hastissue:1" ; Times: 2
+	Query: "genus:Saguinus specificepithet:midas" ; Times: 8
+	Query: "genus:Pteropus specificepithet:lylei" ; Times: 5
+	Query: "genus:Alca specificepithet:torda" ; Times: 2
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 6
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 7
+	Query: "specificepithet:terrestris genus:Tapirus" ; Times: 1
+	Query: "specificepithet:carbonaria genus:Chelonoidis" ; Times: 1
+	Query: "genus:Tapirus specificepithet:terrestris" ; Times: 5
+	Query: "genus:Dendrocopos specificepithet:major" ; Times: 2
+	Query: "genus:Aythya specificepithet:fuligula" ; Times: 2
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 2
+	Query: "genus:Coturnix specificepithet:coturnix" ; Times: 5
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 5
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "genus:Giraffa  specificepithet:camelopardalis " ; Times: 3
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 3
+	Query: "genus:Pithecia specificepithet:pithecia" ; Times: 7
+	Query: "vntype:specimen family:Viverridae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Eunectes specificepithet:murinus" ; Times: 5
+	Query: "genus:Corucia specificepithet:zebrata" ; Times: 5
+	Query: "genus:Cuora specificepithet:amboinensis" ; Times: 5
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 5
+	Query: "genus:gorilla specificepithet:gorilla" ; Times: 2
+	Query: "genus:Panthera specificepithet:leo" ; Times: 2
+	Query: "genus:Varanus specificepithet:niloticus" ; Times: 5
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 10
+	Query: "genus:Cercocebus specificepithet:torquatus" ; Times: 7
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 8
+	Query: "cuora amboinensis" ; Times: 1
+	Query: "genus:Ciconia specificepithet:ciconia" ; Times: 5
+	Query: "genus:Sphoeroides specificepithet:pachygaster" ; Times: 5
+	Query: "specificepithet:onca genus:Panthera country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Rhinolophus specificepithet:ferrumequinum" ; Times: 2
+	Query: "genus:Limosa specificepithet:lapponica" ; Times: 2
+	Query: "genus:Atelerix" ; Times: 3
+	Query: "pernis tissue" ; Times: 2
+	Query: "specificepithet:bubo genus:Bubo hastissue:1" ; Times: 1
+	Query: "genus:Ciconia specificepithet:nigra" ; Times: 5
+	Query: "Myiopsitta monachus " ; Times: 2
+	Query: "genus:Scolopax specificepithet:rusticola" ; Times: 2
+	Query: "specificepithet:ruficollis genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "genus:Gelochelidon specificepithet:nilotica" ; Times: 2
+	Query: "genus:Gallinago class:Aves country:&#34;Spain&#34;" ; Times: 1
+	Query: "genus:Saguinus specificepithet:oedipus" ; Times: 3
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 5
+	Query: "genus:Ardea specificepithet:cinerea" ; Times: 5
+	Query: "Paleosuchus" ; Times: 1
+	Query: "genus:Cercopithecus specificepithet:nictitans" ; Times: 5
+	Query: "genus:Neovison specificepithet:vison" ; Times: 3
+	Query: "genus:Mandrillus specificepithet:sphinx" ; Times: 5
+	Query: "genus:Alectoris specificepithet:rufa" ; Times: 5
+	Query: "family:Cathartidae (fluid OR alcohol OR ethanol)" ; Times: 1
+	Query: "genus:Caprimulgus specificepithet:europaeus" ; Times: 5
+	Query: "stateprovince:&#34;Galicia&#34; country:&#34;Spain&#34;" ; Times: 11
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 2
+	Query: "Talpa" ; Times: 1
+	Query: "genus:anguis year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "family:Spheniscidae basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Podiceps specificepithet:cristatus" ; Times: 2
+	Query: "genus:Luscinia specificepithet:megarhynchos" ; Times: 5
+	Query: "genus:Crocodylus specificepithet:siamensis" ; Times: 5
+	Query: "genus:Miopithecus specificepithet:talapoin" ; Times: 5
+	Query: "specificepithet:onca genus:Panthera" ; Times: 1
+	Query: "genus:Apus specificepithet:apus" ; Times: 5
+	Query: "Eunectes murinus" ; Times: 2
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 6
+	Query: "Panthera tigris " ; Times: 1
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 5
+	Query: "genus:gorilla" ; Times: 2
+	Query: "Python molurus" ; Times: 1
+	Query: "scientificname:gorilla gorilla" ; Times: 1
+	Query: "order:Accipitriformes class:Aves country:&#34;Spain&#34; basisofrecord:PreservedSpecimen" ; Times: 13
+	Query: "genus:Falco specificepithet:subbuteo" ; Times: 5
+	Query: "genus:Sanzinia specificepithet:madagascariensis" ; Times: 5
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 2
+	Query: "genus:Macaca specificepithet:thibetana" ; Times: 5
+	Query: "Ateles hybridus" ; Times: 2
+	Query: "(sternidae) hastissue:1" ; Times: 1
+	Query: "genus:Coracias specificepithet:garrulus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1284 download events in this period)
+Total number of records downloaded: 1164
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 10
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-02 ; Times: 3
+	Date: 2018-03-14 ; Times: 2
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-27 ; Times: 4
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cygnus olor" ; Times: 1
+	Query: "family:alcidae hastissue:1" ; Times: 1
+	Query: "family:gruidae hastissue:1" ; Times: 1
+	Query: "Talpa" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "vntype:specimen family:Otariidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ateles hybridus" ; Times: 1
+	Query: "family:laridae hastissue:1" ; Times: 1
+	Query: "class:Aves year &gt;= 2000 year &lt;= 2010 month &gt;= 1 month &lt;= 12 startdayofyear &gt;= 1" ; Times: 1
+	Query: "family:Cathartidae (fluid OR alcohol OR ethanol)" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "family:Corvidae hastissue:1" ; Times: 1
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "order:Accipitriformes class:Aves country:&#34;Spain&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;Galicia&#34; country:&#34;Spain&#34;" ; Times: 2
+	Query: "Sarcoramphus papa" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,125 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 55
+Number of records retrieved in searches: 242
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+	Country: Canada ; Times: 4
+	Country: Argentina ; Times: 4
+	Country: India ; Times: 2
+	Country: Peru ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 3
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-03 ; Times: 3
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-16 ; Times: 4
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-18 ; Times: 10
+	Date: 2018-04-19 ; Times: 10
+	Date: 2018-04-29 ; Times: 3
+	Date: 2018-04-22 ; Times: 6
+	Date: 2018-04-27 ; Times: 5
+	Date: 2018-04-17 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:polyphemus genus:Gopherus hastissue:1" ; Times: 2
+	Query: "specificepithet:calamita hastissue:1" ; Times: 1
+	Query: "genus:Alligator sex:male OR female" ; Times: 3
+	Query: "genus:Uromastyx hastissue:1 year &gt;=2000" ; Times: 1
+	Query: "genus:anguis year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "specificepithet:liberiensis hastissue:1" ; Times: 2
+	Query: "specificepithet:cristatus genus:Podiceps hastissue:1" ; Times: 2
+	Query: "genus:Gopherus hastissue:1" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Gyps (fluid OR alcohol OR ethanol OR iodine OR jar OR wet) AND (NOT nestling)" ; Times: 1
+	Query: "genus:Anguis year &gt;= 1980 hastissue:1" ; Times: 2
+	Query: "specificepithet:nigricollis genus:Podiceps hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Gypaetus (fluid OR alcohol OR ethanol OR iodine OR jar OR wet) AND (NOT nestling)" ; Times: 1
+	Query: "vntype:specimen genus:Chelonoidis nigra basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen family:Cathartidae (fluid OR alcohol OR ethanol OR iodine OR jar OR wet)" ; Times: 2
+	Query: "porphyrio hastissue:1" ; Times: 4
+	Query: "Tupinambis hastissue:1 year &gt;= 2000" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 5
+	Query: "Varanus hastissue:1 year &gt;= 2005" ; Times: 1
+	Query: "specificepithet:minutus genus:Ixobrychus hastissue:1" ; Times: 1
+	Query: "specificepithet:RUFICOLLIS genus:Tachybaptus hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Gopherus hastissue:1" ; Times: 1
+	Query: "genus:Crocodylus sex:male OR female" ; Times: 1
+	Query: "Chelonoidis nigra" ; Times: 2
+	Query: "chelonoidis" ; Times: 3
+	Query: "genus:alligator sex:male OR female" ; Times: 1
+	Query: "vntype:specimen genus:Neophron (fluid OR alcohol OR ethanol OR iodine OR jar OR wet) AND (NOT nestling)" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "mustela vison" ; Times: 3
+	Query: "genus:hierophis year &gt;= 1980 hastissue:1" ; Times: 2
+	Query: "Varanus niloticus hastissue:1" ; Times: 1
+	Query: "genus:Uromastyx hastissue:1 year &gt;=1950" ; Times: 1
+	Query: "genus:Hemorrhois year &gt;= 1980 hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1359 download events in this period)
+Total number of records downloaded: 232
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 10
+	Country: Chile ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-28 ; Times: 2
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-22 ; Times: 2
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:gopherus sex:male OR female" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "genus:alligator sex:male OR female" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "genus:Alligator sex:male OR female" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "alcohol vntype:specimen order:passeriformes" ; Times: 1
+	Query: "vntype:specimen genus:Neophron (fluid OR alcohol OR ethanol OR iodine OR jar OR wet) AND (NOT nestling)" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "vntype:specimen genus:Gyps (fluid OR alcohol OR ethanol OR iodine OR jar OR wet) AND (NOT nestling)" ; Times: 1
+	Query: "vntype:specimen family:Cathartidae (fluid OR alcohol OR ethanol OR iodine OR jar OR wet)" ; Times: 1
+	Query: "vntype:specimen family:Cervidae hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+
+
+End of report.

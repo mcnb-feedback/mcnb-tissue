@@ -1,0 +1,101 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 40
+Number of records retrieved in searches: 96
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 3
+	Country: Belarus ; Times: 1
+	Country: Italy ; Times: 11
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 4
+	Country: United States ; Times: 13
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-18 ; Times: 2
+	Date: 2018-05-08 ; Times: 10
+	Date: 2018-05-29 ; Times: 9
+	Date: 2018-05-20 ; Times: 3
+	Date: 2018-05-21 ; Times: 4
+	Date: 2018-05-24 ; Times: 3
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 2
+	Query: "specificepithet:monachus genus:Myiopsitta mappable:1" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra" ; Times: 6
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "specificepithet:vison genus:Neovison mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Ciconia nigra" ; Times: 1
+	Query: "nanger dama" ; Times: 2
+	Query: "genus:Pongo preparations:alcohol" ; Times: 6
+	Query: "specificepithet:decumanus genus:Psarocolius" ; Times: 1
+	Query: "crex vntype:specimen hastissue:1" ; Times: 1
+	Query: "eunectes murinus" ; Times: 2
+	Query: "specificepithet:dammah" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys mappable:1 year&gt;=2000" ; Times: 1
+	Query: "porzana porzana vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:monachus genus:Myiopsitta mappable:1 year&gt;=2000" ; Times: 1
+	Query: "genus:alligator sex:male OR female" ; Times: 1
+	Query: "specificepithet:totanus genus:Tringa hastissue:1" ; Times: 4
+	Query: "Ateles hybridus" ; Times: 4
+	Query: "specificepithet:Molurus genus:Python hastissue:1" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1178 download events in this period)
+Total number of records downloaded: 157
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "genus:Rallus hastissue:1" ; Times: 1
+	Query: "genus:alligator sex:male OR female" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,67 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 62
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Unknown ; Times: 9
+	Country: India ; Times: 1
+	Country: United States ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-06 ; Times: 5
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-24 ; Times: 2
+	Date: 2018-07-02 ; Times: 2
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-19 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "ardea purpurea" ; Times: 2
+	Query: "Panthera uncia" ; Times: 5
+	Query: "broghammerus" ; Times: 1
+	Query: "specificepithet:purpurea genus:Ardea hastissue:1" ; Times: 1
+	Query: "Marmaronetta angustirostris" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "specificepithet:pictus genus:Lycaon (captive OR zoo)" ; Times: 2
+	Query: "Chauna torquata" ; Times: 2
+	Query: "genus:Gallinago hastissue:1" ; Times: 2
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "specificepithet:ciconia genus:Ciconia" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 977 download events in this period)
+Total number of records downloaded: 9
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gallinago hastissue:1" ; Times: 1
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "macrochelys" ; Times: 1
+	Query: "Caloenas" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+
+
+End of report.

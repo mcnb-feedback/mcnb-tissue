@@ -1,0 +1,93 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 279
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Turkey ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: India ; Times: 2
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Cyprus ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-03 ; Times: 3
+	Date: 2018-09-05 ; Times: 3
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-02 ; Times: 3
+	Date: 2018-09-25 ; Times: 12
+	Date: 2018-09-12 ; Times: 3
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-21 ; Times: 2
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-08 ; Times: 2
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-20 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Saimiri sciureus" ; Times: 3
+	Query: "specificepithet:monedula genus:Corvus class:Aves hastissue:1" ; Times: 1
+	Query: "institutioncode:mcnb" ; Times: 1
+	Query: "ciconia ciconia hastissue:1" ; Times: 2
+	Query: "specificepithet:gallinago genus:Gallinago hastissue:1" ; Times: 1
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+	Query: "Mustela nivalis hastissue:1" ; Times: 5
+	Query: "specificepithet:corone genus:Corvus class:Aves hastissue:1" ; Times: 1
+	Query: "Panthera tigris" ; Times: 2
+	Query: "specificepithet:juncidis genus:Cisticola class:Aves hastissue:1" ; Times: 1
+	Query: "institutioncode:mcnb Psittacula" ; Times: 2
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 12
+	Query: "myiopsitta" ; Times: 2
+	Query: "Callithrix penicillata" ; Times: 1
+	Query: "myiopsitta hastissue:1" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "catalognumber:1980 hastissue:1" ; Times: 1
+	Query: "specificepithet:noctua genus:Athene hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 846 download events in this period)
+Total number of records downloaded: 63
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa" ; Times: 1
+	Query: "specificepithet:onca genus:panthera year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "genus:vulpes continent:europe" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 2
+	Query: "vntype:specimen genus:vulpes year &gt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "macroclemys" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus mappable:1" ; Times: 1
+
+
+End of report.

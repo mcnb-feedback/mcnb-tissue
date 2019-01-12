@@ -1,0 +1,140 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 63
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Israel ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 4
+	Country: France ; Times: 4
+	Country: United States ; Times: 20
+	Country: Austria ; Times: 4
+	Country: Germany ; Times: 4
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-03 ; Times: 1
+	Date: 2018-12-20 ; Times: 8
+	Date: 2018-12-18 ; Times: 4
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-30 ; Times: 3
+	Date: 2018-12-06 ; Times: 5
+	Date: 2018-12-07 ; Times: 2
+	Date: 2018-12-17 ; Times: 6
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-04 ; Times: 2
+	Date: 2018-12-13 ; Times: 8
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Larus melanocephalus mappable:1" ; Times: 1
+	Query: "Panthera leo vntype:specimen hastissue:1" ; Times: 1
+	Query: "testudo hermanni" ; Times: 1
+	Query: "panthera  tigris" ; Times: 1
+	Query: "Mesoclemmys nasutus" ; Times: 1
+	Query: "Chelonoidis carbonaria" ; Times: 1
+	Query: "athene noctua" ; Times: 5
+	Query: "Hydrosaurus vntype:specimen" ; Times: 2
+	Query: "&#34;Carassius carassius&#34;" ; Times: 5
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Lycaon pictus vntype:specimen" ; Times: 2
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "genus:sphoeroides year &gt;= 2000 hastissue:1" ; Times: 1
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018 Eliomys quercinus" ; Times: 1
+	Query: "Hydrocoloeus minutus" ; Times: 2
+	Query: "geochelone carbonaria" ; Times: 2
+	Query: "genus:Tyto catalognumber:0043" ; Times: 1
+	Query: "testudo hermanni vntype:specimen (PreservedSpecimen) hastissue:1" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Larus ridibundus mappable:1" ; Times: 2
+	Query: "testudo hermanni vntype:specimen hastissue:1" ; Times: 1
+	Query: "Lycaon pictus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Testudo hermanni (PreservedSpecimen) hastissue:1" ; Times: 1
+	Query: "genus:mesoclemmys" ; Times: 1
+	Query: "specificepithet:nasuta genus:mesoclemmys" ; Times: 3
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "year &gt;= 2000 year &lt;= 2018 Eliomys quercinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 809 download events in this period)
+Total number of records downloaded: 957
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 11
+	Country: United States ; Times: 13
+	Country: Germany ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-08 ; Times: 3
+	Date: 2018-12-02 ; Times: 1
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-15 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 5
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-30 ; Times: 3
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-17 ; Times: 4
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-11 ; Times: 2
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-13 ; Times: 4
+	Date: 2018-12-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "testudo hermanni" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "felis silvestris" ; Times: 1
+	Query: "athene noctua" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "&#34;Carassius carassius&#34;" ; Times: 1
+	Query: "aegolius funereus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "testudo hermanni vntype:specimen (PreservedSpecimen) hastissue:1" ; Times: 1
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018 Soricidae" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "phoenicurus phoenicurus" ; Times: 1
+	Query: "order:Testudines" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018 Apodemus sylvaticus" ; Times: 1
+	Query: "Asio otus" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "otus scops" ; Times: 1
+	Query: "lynx lynx" ; Times: 1
+	Query: "Panthera leo vntype:specimen" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "Hydrosaurus vntype:specimen" ; Times: 1
+	Query: "Lycaon pictus vntype:specimen" ; Times: 2
+	Query: "Agapornis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "testudo hermanni vntype:specimen hastissue:1" ; Times: 1
+	Query: "Testudo hermanni (PreservedSpecimen) hastissue:1" ; Times: 1
+	Query: "continent:Europe year &gt;= 2000 year &lt;= 2018 Rodentia" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 1
+	Query: "Panthera pardus vntype:specimen" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,122 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 417
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Turkey ; Times: 2
+	Country: Poland ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 73
+	Country: Slovakia ; Times: 2
+	Country: Peru ; Times: 4
+	Country: Greece ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-14 ; Times: 8
+	Date: 2019-01-15 ; Times: 14
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-17 ; Times: 6
+	Date: 2019-01-10 ; Times: 5
+	Date: 2019-01-11 ; Times: 8
+	Date: 2019-01-12 ; Times: 3
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-31 ; Times: 6
+	Date: 2019-01-03 ; Times: 3
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-23 ; Times: 1
+	Date: 2019-01-22 ; Times: 8
+	Date: 2019-01-25 ; Times: 4
+	Date: 2019-01-24 ; Times: 3
+	Date: 2019-01-26 ; Times: 1
+	Date: 2019-01-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Clamator hastissue:1" ; Times: 1
+	Query: "&#34;Capra pyrenaica&#34;" ; Times: 1
+	Query: "specificepithet:nisus genus:Accipiter preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "Merops preparations:alcohol basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "genus:clamator hastissue:1" ; Times: 1
+	Query: "cervus axis" ; Times: 7
+	Query: "(Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:MCNB" ; Times: 1
+	Query: "Testudo graeca" ; Times: 1
+	Query: "Osteolaemus" ; Times: 3
+	Query: "Chauna torquata" ; Times: 1
+	Query: "specificepithet:lutra genus:lutra country:&#34;Spain&#34;" ; Times: 1
+	Query: "Panthera onca" ; Times: 53
+	Query: "genus:Panthera hastissue:1" ; Times: 1
+	Query: "specificepithet:pardus genus:Panthera hastissue:1" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Ara chloropterus" ; Times: 1
+	Query: "&#34;Erinaceidae Erinaceus&#34;" ; Times: 1
+	Query: "macaca vntype:specimen genus:macaca basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "specificepithet:leo genus:Panthera hastissue:1" ; Times: 1
+	Query: "Gyps fulvus" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 962 download events in this period)
+Total number of records downloaded: 156
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 9
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 1
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-14 ; Times: 3
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-30 ; Times: 2
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Montifringilla nivalis" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "specificepithet:lutra genus:lutra country:&#34;Spain&#34;" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 2
+	Query: "macaca vntype:specimen genus:macaca basisofrecord:PreservedSpecimen haslifestage:1 hassex:1" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "elephas maximus" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Osteolaemus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+
+
+End of report.

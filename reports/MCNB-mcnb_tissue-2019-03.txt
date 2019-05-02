@@ -1,0 +1,112 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 62
+Number of records retrieved in searches: 182
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 46
+	Country: Denmark ; Times: 4
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 4
+	Date: 2019-03-06 ; Times: 2
+	Date: 2019-03-18 ; Times: 5
+	Date: 2019-03-30 ; Times: 2
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-09 ; Times: 2
+	Date: 2019-03-08 ; Times: 5
+	Date: 2019-03-21 ; Times: 10
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-15 ; Times: 8
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-29 ; Times: 6
+	Date: 2019-03-22 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:decumanus genus:psarocolius hastissue:1" ; Times: 1
+	Query: "Python bivittatus" ; Times: 1
+	Query: "Eunectes murinus" ; Times: 2
+	Query: "PHOENICOPTERUS RUBER" ; Times: 1
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM NOT AMNH)" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigra genus:ciconia" ; Times: 1
+	Query: "Ara militaris" ; Times: 2
+	Query: "Hemorrhois hippocrepis" ; Times: 1
+	Query: "Aquila chrysaetos year &gt; 1990 NOT clo" ; Times: 2
+	Query: "family:Otididae hastissue:1" ; Times: 3
+	Query: "Sanzinia madagascariensis" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "genus:Tetrax hastissue:1" ; Times: 2
+	Query: "Neovison" ; Times: 4
+	Query: "Procellaria aequinoctialis" ; Times: 1
+	Query: "specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "Rhinechis scalaris" ; Times: 1
+	Query: "Egretta garzetta year &gt; 1990 NOT clo" ; Times: 2
+	Query: "MCNB" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom)" ; Times: 1
+	Query: "Panthera uncia" ; Times: 2
+	Query: "neovison vison" ; Times: 5
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM NOT AMNH NOT FMNH)" ; Times: 1
+	Query: "vntype:specimen specificepithet:grus genus:grus" ; Times: 1
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "Hierophis viridiflavus" ; Times: 1
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK)" ; Times: 1
+	Query: "Silurus glanis" ; Times: 1
+	Query: "Gyps fulvus" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1281 download events in this period)
+Total number of records downloaded: 100
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: United Kingdom ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-17 ; Times: 2
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:vison genus:neovison" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "genus:neovison" ; Times: 1
+	Query: "genus:Meles" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "specificepithet:vison" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+
+
+End of report.

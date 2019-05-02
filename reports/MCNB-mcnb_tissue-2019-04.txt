@@ -1,0 +1,113 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 451
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: United States ; Times: 21
+	Country: Sweden ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 8
+	Date: 2019-04-18 ; Times: 4
+	Date: 2019-04-02 ; Times: 3
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-23 ; Times: 5
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-05 ; Times: 3
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinerea genus:Ardea hastissue:1" ; Times: 2
+	Query: "class:Aves catalognumber:3288 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "panthera uncia" ; Times: 2
+	Query: "lycaon pictus" ; Times: 1
+	Query: "gypaetus barbatus" ; Times: 1
+	Query: "Pinus pinea mappable:1" ; Times: 2
+	Query: "Aquila fasciata" ; Times: 1
+	Query: "specificepithet:viridis genus:picus country:&#34;spain&#34;" ; Times: 1
+	Query: "Phoenicurus ochruros hastissue:1" ; Times: 1
+	Query: "specificepithet:decaocto genus:Streptopelia hastissue:1" ; Times: 1
+	Query: "choeropsis" ; Times: 1
+	Query: "crocodylus palustris" ; Times: 1
+	Query: "genus:Sciurus continent:Europe hastissue:1" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "specificepithet:skua genus:STERCORARIUS hastissue:1" ; Times: 1
+	Query: "sharpei specificepithet:viridis genus:picus" ; Times: 1
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes preparations:alcohol" ; Times: 2
+	Query: "corucia hastissue:1" ; Times: 1
+	Query: "Sander lucioperca" ; Times: 2
+	Query: "specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "specificepithet:grus genus:grus" ; Times: 1
+	Query: "neovison vison" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "plegadis falcinellus vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:decaocto genus:Streptopelia country:&#34;Spain&#34; hastissue:1" ; Times: 1
+	Query: "Pinus halepensis mappable:1" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta hastissue:1" ; Times: 2
+	Query: "specificepithet:purpurea genus:Ardea hastissue:1" ; Times: 1
+	Query: "genus:Stercorarius hastissue:1" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1263 download events in this period)
+Total number of records downloaded: 188
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 2
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-23 ; Times: 5
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:grus genus:grus" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "specificepithet:concolor genus:puma" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "lycaon pictus" ; Times: 1
+	Query: "(cyanocorax) hastissue:1" ; Times: 2
+	Query: "genus:saxicola hastissue:1" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Phoenicurus ochruros hastissue:1" ; Times: 1
+	Query: "specificepithet:nigra genus:ciconia" ; Times: 1
+	Query: "sharpei specificepithet:viridis genus:picus" ; Times: 1
+	Query: "genus:rhinoclemmys order:testudines" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "specificepithet:viridis genus:picus country:&#34;spain&#34;" ; Times: 1
+	Query: "specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+
+
+End of report.

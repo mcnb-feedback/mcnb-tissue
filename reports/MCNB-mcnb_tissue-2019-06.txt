@@ -1,0 +1,162 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 934
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 6
+	Country: United States ; Times: 117
+	Country: Chile ; Times: 1
+	Country: New Zealand ; Times: 6
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 8
+	Date: 2019-06-21 ; Times: 10
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-30 ; Times: 3
+	Date: 2019-06-07 ; Times: 1
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 60
+	Date: 2019-06-03 ; Times: 1
+	Date: 2019-06-02 ; Times: 3
+	Date: 2019-06-01 ; Times: 1
+	Date: 2019-06-12 ; Times: 4
+	Date: 2019-06-27 ; Times: 3
+	Date: 2019-06-10 ; Times: 51
+
+List of queries that retrieved data from the resource: 
+	Query: "Andrias davidianus" ; Times: 2
+	Query: "genus:Cuculus specificepithet:canorus" ; Times: 1
+	Query: "genus:Mandrillus specificepithet:leucophaeus" ; Times: 2
+	Query: "genus:Lutra specificepithet:lutra" ; Times: 2
+	Query: "genus:Nanger specificepithet:dama" ; Times: 1
+	Query: "genus:Ceratotherium specificepithet:simum" ; Times: 2
+	Query: "eunectes hastissue:1" ; Times: 1
+	Query: "genus:Crocidura specificepithet:russula" ; Times: 1
+	Query: "Geochelone carbonaria" ; Times: 1
+	Query: "genus:Pteropus specificepithet:lylei" ; Times: 1
+	Query: "genus:Alca specificepithet:torda" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 3
+	Query: "genus:Lycaon specificepithet:pictus" ; Times: 1
+	Query: "genus:Tapirus specificepithet:terrestris" ; Times: 2
+	Query: "genus:Dendrocopos specificepithet:major" ; Times: 1
+	Query: "genus:Aythya specificepithet:fuligula" ; Times: 1
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 2
+	Query: "genus:Spheniscus specificepithet:humboldti" ; Times: 1
+	Query: "genus:Coturnix specificepithet:coturnix" ; Times: 1
+	Query: "Raja undulata" ; Times: 2
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 1
+	Query: "genus:Pithecia specificepithet:pithecia" ; Times: 2
+	Query: "genus:Misgurnus specificepithet:anguillicaudatus" ; Times: 1
+	Query: "genus:Aegithalos specificepithet:caudatus" ; Times: 1
+	Query: "genus:Eunectes specificepithet:murinus" ; Times: 2
+	Query: "genus:Corucia specificepithet:zebrata" ; Times: 1
+	Query: "genus:Mauremys specificepithet:leprosa" ; Times: 1
+	Query: "genus:Cuora specificepithet:amboinensis" ; Times: 1
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 3
+	Query: "genus:macrochelys hastissue:1" ; Times: 1
+	Query: "genus:Manouria specificepithet:emys" ; Times: 1
+	Query: "genus:Panthera specificepithet:leo" ; Times: 2
+	Query: "genus:Anguis" ; Times: 1
+	Query: "Myiopsitta monachus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Inaturalist" ; Times: 2
+	Query: "genus:Varanus specificepithet:niloticus" ; Times: 2
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 3
+	Query: "genus:Cercocebus specificepithet:torquatus" ; Times: 2
+	Query: "Mauremys mutica" ; Times: 2
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 3
+	Query: "Chelonoidis carbonaria" ; Times: 6
+	Query: "genus:Ciconia specificepithet:ciconia" ; Times: 1
+	Query: "genus:Sphoeroides specificepithet:pachygaster" ; Times: 1
+	Query: "genus:Phoenicopterus specificepithet:ruber" ; Times: 1
+	Query: "panthera tigris" ; Times: 3
+	Query: "genus:Psittacula specificepithet:krameri" ; Times: 1
+	Query: "genus:Morus  specificepithet:bassanus" ; Times: 1
+	Query: "genus:Ciconia specificepithet:nigra" ; Times: 1
+	Query: "aldabrachelys" ; Times: 1
+	Query: "genus:Saguinus specificepithet:midas" ; Times: 2
+	Query: "genus:Scolopax specificepithet:rusticola" ; Times: 1
+	Query: "genus:Gelochelidon specificepithet:nilotica" ; Times: 1
+	Query: "genus:Testudo specificepithet:hermanni" ; Times: 1
+	Query: "genus:Rhinolophus specificepithet:ferrumequinum" ; Times: 1
+	Query: "genus:Saguinus specificepithet:oedipus" ; Times: 2
+	Query: "genus:Hydrochoerus specificepithet:hydrochaeris" ; Times: 1
+	Query: "genus:Ardea specificepithet:cinerea" ; Times: 1
+	Query: "genus:Cercopithecus specificepithet:nictitans" ; Times: 2
+	Query: "genus:Neovison specificepithet:vison" ; Times: 1
+	Query: "genus:Mandrillus specificepithet:sphinx" ; Times: 2
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; institutioncode:MCNB" ; Times: 1
+	Query: "genus:Meles specificepithet:meles" ; Times: 1
+	Query: "genus:Alectoris specificepithet:rufa" ; Times: 1
+	Query: "Buceros rhinoceros" ; Times: 8
+	Query: "python hastissue:1" ; Times: 1
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 1
+	Query: "genus:Caprimulgus specificepithet:europaeus" ; Times: 1
+	Query: "genus:Phalacrocorax specificepithet:carbo" ; Times: 1
+	Query: "buceros rhinoceros" ; Times: 2
+	Query: "genus:Testudo specificepithet:marginata" ; Times: 1
+	Query: "genus:Suricata specificepithet:suricatta" ; Times: 1
+	Query: "genus:Podiceps specificepithet:cristatus" ; Times: 1
+	Query: "genus:Aepyceros specificepithet:melampus" ; Times: 1
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 1
+	Query: "genus:Luscinia specificepithet:megarhynchos" ; Times: 1
+	Query: "genus:Aldabrachelys specificepithet:gigantea" ; Times: 1
+	Query: "Scyliorhinus canicula" ; Times: 2
+	Query: "genus:Crocodylus specificepithet:siamensis" ; Times: 3
+	Query: "genus:Miopithecus specificepithet:talapoin" ; Times: 2
+	Query: "genus:Martes specificepithet:martes" ; Times: 1
+	Query: "genus:Malpolon" ; Times: 1
+	Query: "genus:Apus specificepithet:apus" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 2
+	Query: "genus:Mico specificepithet:argentatus" ; Times: 1
+	Query: "genus:Martes specificepithet:foina" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "genus:Glis specificepithet:glis" ; Times: 1
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 3
+	Query: "genus:Vanellus specificepithet:vanellus" ; Times: 1
+	Query: "genus:Hemorrhois specificepithet:hippocrepis" ; Times: 1
+	Query: "genus:Falco specificepithet:subbuteo" ; Times: 2
+	Query: "genus:Atelerix" ; Times: 1
+	Query: "genus:Sanzinia specificepithet:madagascariensis" ; Times: 1
+	Query: "genus:Brama specificepithet:brama" ; Times: 1
+	Query: "genus:Macaca specificepithet:thibetana" ; Times: 2
+	Query: "genus:Coracias specificepithet:garrulus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1182 download events in this period)
+Total number of records downloaded: 229
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-07 ; Times: 4
+	Date: 2019-06-04 ; Times: 2
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-10 ; Times: 1
+	Date: 2019-06-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eunectes" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "Ursus americanus" ; Times: 2
+	Query: "bison" ; Times: 1
+	Query: "ursus americanus" ; Times: 2
+	Query: "genus:Accipiter year &gt;= 1990 hastissue:1" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.

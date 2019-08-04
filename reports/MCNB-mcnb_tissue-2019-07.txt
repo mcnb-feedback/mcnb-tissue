@@ -1,0 +1,125 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 65
+Number of records retrieved in searches: 545
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 28
+	Country: Australia ; Times: 4
+	Country: United Kingdom ; Times: 14
+	Country: Sweden ; Times: 12
+	Country: Japan ; Times: 1
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 4
+	Date: 2019-07-08 ; Times: 15
+	Date: 2019-07-19 ; Times: 5
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-01 ; Times: 2
+	Date: 2019-07-16 ; Times: 1
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 5
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-06 ; Times: 3
+	Date: 2019-07-17 ; Times: 2
+	Date: 2019-07-15 ; Times: 12
+	Date: 2019-07-05 ; Times: 8
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Aldabrachelys specificepithet:gigantea" ; Times: 1
+	Query: "genus:Crocodylus specificepithet:siamensis" ; Times: 1
+	Query: "Giraffa basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "panthera uncia" ; Times: 2
+	Query: "procellaria hastissue:1" ; Times: 3
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "genus:Malpolon" ; Times: 1
+	Query: "Procellaria conspicillata" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia year&gt;1980 year&lt;2020" ; Times: 3
+	Query: "Phoenicurus ochruros hastissue:1" ; Times: 1
+	Query: "Phoenicurus ochruros vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:manouria hastissue:1" ; Times: 3
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 1
+	Query: "genus:Anthus specificepithet:trivialis" ; Times: 1
+	Query: "chelonoidis nigra" ; Times: 1
+	Query: "specificepithet:borin genus:Sylvia year&gt;1980 year&lt;2020" ; Times: 3
+	Query: "Sus scrofa mappable:1" ; Times: 1
+	Query: "procellaria" ; Times: 1
+	Query: "gbifdatasetid:71cfcf5c-f762-11e1-a439-00145eb45e9a procellariiformes" ; Times: 2
+	Query: "procellaria conspicillata" ; Times: 3
+	Query: "genus:Saimiri specificepithet:sciureus" ; Times: 1
+	Query: "genus:Anguis" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 2
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 1
+	Query: "Panthera onca" ; Times: 5
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 1
+	Query: "genus:Falco specificepithet:subbuteo" ; Times: 1
+	Query: "Buceros rhinoceros" ; Times: 2
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia year&gt;1980 year&lt;=2019" ; Times: 1
+	Query: "genus:Buteo specificepithet:buteo" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 5
+	Query: "vntype:specimen class:Aves country:&#34;Indonesia&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "buceros rhinoceros" ; Times: 2
+	Query: "gbifdatasetid:71cfcf5c-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "genus:Atelerix" ; Times: 1
+	Query: "specificepithet:arundinaceus genus:Acrocephalus year&gt;1980 year&lt;2020" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 985 download events in this period)
+Total number of records downloaded: 78
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: India ; Times: 1
+	Country: United States ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-18 ; Times: 2
+	Date: 2019-07-26 ; Times: 2
+	Date: 2019-07-12 ; Times: 3
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "upupa epops" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Indonesia&#34; year &gt;= 2000 year &lt;= 2019" ; Times: 2
+	Query: "Fulmarus glacialis year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 3
+	Query: "Macrochelys" ; Times: 1
+	Query: "genus:Agapornis hastissue:1" ; Times: 1
+	Query: "Phoenicurus ochruros hastissue:1" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Macroclemys" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:communis genus:Sylvia" ; Times: 1
+
+
+End of report.

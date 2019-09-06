@@ -1,0 +1,147 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 588
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Turkey ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: United Kingdom ; Times: 13
+	Country: Peru ; Times: 20
+	Country: United States ; Times: 41
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-08 ; Times: 8
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-19 ; Times: 2
+	Date: 2019-08-02 ; Times: 5
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-17 ; Times: 1
+	Date: 2019-08-16 ; Times: 18
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-14 ; Times: 20
+	Date: 2019-08-05 ; Times: 17
+	Date: 2019-08-28 ; Times: 4
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-27 ; Times: 6
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-31 ; Times: 2
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-20 ; Times: 2
+	Date: 2019-08-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Aldabrachelys specificepithet:gigantea" ; Times: 1
+	Query: "Ardea purpurea" ; Times: 1
+	Query: "Phoenicopterus ruber hastissue:1" ; Times: 2
+	Query: "panthera uncia" ; Times: 1
+	Query: "Stercorarius skua" ; Times: 1
+	Query: "Gazella dorcas" ; Times: 1
+	Query: "Callithrix penicillata" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "Calonectris diomedea" ; Times: 1
+	Query: "Chlidonias hybrida" ; Times: 1
+	Query: "Procellaria conspicillata" ; Times: 1
+	Query: "specificepithet:melanocephala family:Sylviidae hastissue:1" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "specificepithet:cantillans family:sylviidae hastissue:1" ; Times: 1
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "family:vespertilionidae order:chiroptera continent:Europe basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Morus  specificepithet:bassanus" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "Tetrax tetrax" ; Times: 1
+	Query: "specificepithet:mauretanicus genus:Puffinus" ; Times: 2
+	Query: "Hydrobates pelagicus" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "Chauna torquata" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 1
+	Query: "claramunt" ; Times: 1
+	Query: "Saguinus midas" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "Hydrobates pelagicus mcnb" ; Times: 1
+	Query: "vntype:specimen genus:Porphyrio hastissue:1" ; Times: 1
+	Query: "paleosuchus" ; Times: 2
+	Query: "Psarocolius decumanus" ; Times: 2
+	Query: "Platalea leucorodia" ; Times: 1
+	Query: "Panthera uncia vntype:specimen hastissue:1" ; Times: 1
+	Query: "paleosuchus hastissue:1" ; Times: 10
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "specificepithet:percnopterus genus:Neophron" ; Times: 2
+	Query: "Hydrocoloeus minutus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Procellaria aequinoctialis" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+	Query: "specificepithet:coccothraustes genus:coccothraustes year &gt;= 1950 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Crex crex" ; Times: 1
+	Query: "Aulacorhynchus haematopygus" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Ara chloropterus" ; Times: 1
+	Query: "order:Testudines institutioncode:MCNB" ; Times: 1
+	Query: "genus:Garrulus hastissue:1" ; Times: 14
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Merops apiaster" ; Times: 1
+	Query: "Apus melba" ; Times: 1
+	Query: "mustela vison" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "Puffinus yelkouan" ; Times: 2
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 3
+	Query: "Sarcoramphus papa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 1034 download events in this period)
+Total number of records downloaded: 247
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 11
+	Country: Turkey ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-02 ; Times: 3
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 2
+	Date: 2019-08-29 ; Times: 4
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "vntype:specimen family:Rallidae hastissue:1" ; Times: 1
+	Query: "Hydrobates pelagicus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Panthera uncia vntype:specimen hastissue:1" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "panthera tigris" ; Times: 4
+	Query: "paleosuchus hastissue:1" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "(passer domesticus) year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "Puffinus yelkouan" ; Times: 1
+	Query: "specificepithet:gentilis genus:Accipiter AND (NOT cooperii NOT striatus) year &gt;= 1990" ; Times: 1
+	Query: "paleosuchus vntype:specimen" ; Times: 1
+
+
+End of report.

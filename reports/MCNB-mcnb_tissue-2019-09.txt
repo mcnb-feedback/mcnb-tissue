@@ -1,0 +1,91 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 177
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 22
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 8
+	Country: United Kingdom ; Times: 8
+	Country: Sweden ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 3
+	Date: 2019-09-16 ; Times: 3
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 5
+	Date: 2019-09-11 ; Times: 3
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 6
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-03 ; Times: 4
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-01 ; Times: 3
+	Date: 2019-09-27 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "osteolaemus" ; Times: 2
+	Query: "hastissue:1 tachybaptus" ; Times: 1
+	Query: "specificepithet:caeruleus genus:parus hastissue:1" ; Times: 2
+	Query: "specificepithet:cantillans family:sylviidae hastissue:1" ; Times: 1
+	Query: "Hydrobates pelagicus mcnb" ; Times: 1
+	Query: "vntype:specimen specificepithet:astrild genus:Estrilda hastissue:1" ; Times: 1
+	Query: "(Anhimidae) hastissue:1" ; Times: 8
+	Query: "Panthera onca" ; Times: 10
+	Query: "nivalis mustela" ; Times: 3
+	Query: "paleosuchus hastissue:1" ; Times: 1
+	Query: "family:phoenicopteridae hastissue:1" ; Times: 1
+	Query: "palumbus Columba" ; Times: 4
+	Query: "Buceros rhinoceros" ; Times: 3
+	Query: "specificepithet:pardus genus:Panthera hastissue:1" ; Times: 1
+	Query: "hydrobates pelagicus mcnb" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Aldabrachelys gigantea" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "specificepithet:melanocephala family:sylviidae hastissue:1" ; Times: 1
+	Query: "Pteropus lylei" ; Times: 2
+	Query: "Anodorhynchus hyacinthinus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1073 download events in this period)
+Total number of records downloaded: 54
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 2
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "canorus" ; Times: 1
+	Query: "family:estrildidae class:aves hastissue:1" ; Times: 1
+	Query: "Cervidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+
+
+End of report.

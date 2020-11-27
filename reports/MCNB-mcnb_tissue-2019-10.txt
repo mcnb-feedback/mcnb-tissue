@@ -1,0 +1,98 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 71
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: New Zealand ; Times: 6
+	Country: United States ; Times: 15
+	Country: Taiwan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 3
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 4
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-29 ; Times: 5
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-05 ; Times: 4
+	Date: 2019-10-04 ; Times: 8
+	Date: 2019-10-17 ; Times: 2
+	Date: 2019-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Scyliorhinus canicula" ; Times: 2
+	Query: "Mus musculus 2012" ; Times: 2
+	Query: "emberiza cia institutioncode:MCNB hastissue:1" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "phrynops" ; Times: 2
+	Query: "Mus musculus 2007" ; Times: 2
+	Query: "(Anhimidae) hastissue:1" ; Times: 1
+	Query: "halepensis Pinus" ; Times: 1
+	Query: "Mus musculus 2009" ; Times: 2
+	Query: "Mus musculus 2008" ; Times: 2
+	Query: "testudo graeca" ; Times: 1
+	Query: "Rattus norvegicus 2012" ; Times: 1
+	Query: "Sander lucioperca" ; Times: 1
+	Query: "Stercorariidae continent:Europe" ; Times: 3
+	Query: "paleosuchus hastissue:1" ; Times: 1
+	Query: "genus:psarocolius hastissue:1" ; Times: 1
+	Query: "Rattus norvegicus 1999" ; Times: 1
+	Query: "specificepithet:pictus family:Canidae (zoo)" ; Times: 1
+	Query: "emberiza cia institutioncode:MCNB" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "procellaria aequinoctialis" ; Times: 1
+	Query: "MZB" ; Times: 1
+	Query: "Raja undulata" ; Times: 2
+	Query: "Rattus norvegicus 2014" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1308 download events in this period)
+Total number of records downloaded: 57
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-23 ; Times: 14
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stercorariidae" ; Times: 1
+	Query: "genus:Passer domesticus hastissue:1" ; Times: 1
+	Query: "Crocidura vntype:specimen hastissue:1" ; Times: 2
+	Query: "Chelonoidis" ; Times: 1
+	Query: "puma concolor" ; Times: 10
+	Query: "Puma concolor" ; Times: 3
+	Query: "testudo graeca" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+
+
+End of report.

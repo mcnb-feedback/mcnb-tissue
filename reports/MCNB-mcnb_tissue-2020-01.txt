@@ -1,0 +1,83 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 201
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 7
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-28 ; Times: 4
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-14 ; Times: 7
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-09 ; Times: 2
+	Date: 2020-01-21 ; Times: 5
+	Date: 2020-01-22 ; Times: 16
+	Date: 2020-01-30 ; Times: 1
+	Date: 2020-01-16 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Carcharhinus melanopterus" ; Times: 7
+	Query: "specificepithet:nivalis genus:Montifringilla hastissue:1" ; Times: 2
+	Query: "Panthera onca" ; Times: 9
+	Query: "specificepithet:decumanus genus:Psarocolius year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "genus:Garrulus hastissue:1" ; Times: 13
+	Query: "genus:Dendrocopos hastissue:1" ; Times: 1
+	Query: "aristotelis Phalacrocorax" ; Times: 1
+	Query: "Aquila fasciata" ; Times: 1
+	Query: "Silurus glanis" ; Times: 3
+	Query: "calamita Bufo" ; Times: 1
+	Query: "specificepithet:calamita genus:Bufo" ; Times: 1
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 2
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:MCNB" ; Times: 4
+	Query: "Ara militaris" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1584 download events in this period)
+Total number of records downloaded: 91
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "genus:Dendrocopos hastissue:1" ; Times: 1
+	Query: "class:Mammalia" ; Times: 1
+	Query: "Burhinus oedicnemus" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+
+
+End of report.

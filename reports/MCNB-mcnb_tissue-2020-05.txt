@@ -1,0 +1,81 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 9
+Number of records retrieved in searches: 13
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-20 ; Times: 1
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gypaetus" ; Times: 1
+	Query: "Sturnus contra" ; Times: 1
+	Query: "Hierophis viridiflavus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "Crocodylus siamensis" ; Times: 1
+	Query: "family:Ursidae lifestage:adult" ; Times: 1
+	Query: "gypaetus barbatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "hierophis viridiflavus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1106 download events in this period)
+Total number of records downloaded: 613
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 11
+	Country: Argentina ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-21 ; Times: 1
+	Date: 2020-05-30 ; Times: 5
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Scolopacidae year &gt;= 1980 year &lt;= 2019 month &gt;= 1 month &lt;= 12 hastissue:1" ; Times: 1
+	Query: "Accipiter hastissue:1" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "Martes foina" ; Times: 2
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "caretta caretta" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "vntype:specimen specificepithet:niloticus genus:Varanus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "genus:Martes" ; Times: 2
+	Query: "Martes martes" ; Times: 1
+	Query: "hierophis viridiflavus" ; Times: 1
+
+
+End of report.

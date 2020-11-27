@@ -1,0 +1,103 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 154
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 11
+	Country: Israel ; Times: 8
+	Country: Italy ; Times: 1
+	Country: Denmark ; Times: 24
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Benin ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-22 ; Times: 2
+	Date: 2019-11-24 ; Times: 2
+	Date: 2019-11-25 ; Times: 8
+	Date: 2019-11-06 ; Times: 4
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-11 ; Times: 3
+	Date: 2019-11-03 ; Times: 23
+	Date: 2019-11-10 ; Times: 2
+	Date: 2019-11-15 ; Times: 3
+	Date: 2019-11-28 ; Times: 2
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Acinonyx jubatus" ; Times: 8
+	Query: "Connochaetes taurinus" ; Times: 1
+	Query: "Elephas maximus" ; Times: 4
+	Query: "family:Elephantidae hastissue:1" ; Times: 2
+	Query: "Aquila chrysaetos year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "pithecia hastissue:1" ; Times: 1
+	Query: "equus spain" ; Times: 1
+	Query: "sus spain" ; Times: 2
+	Query: "Andrias" ; Times: 2
+	Query: "Saguinus imperator" ; Times: 1
+	Query: "Andrias vntype:specimen" ; Times: 1
+	Query: "Kobus ellipsiprymnus" ; Times: 1
+	Query: "capra spain" ; Times: 5
+	Query: "order:passeriformes institutioncode:MCNB" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "paleosuchus hastissue:1" ; Times: 2
+	Query: "vntype:specimen genus:Andrias" ; Times: 2
+	Query: "Spheniscus humboldti" ; Times: 1
+	Query: "specificepithet:carbonaria class:reptilia" ; Times: 3
+	Query: "Aepyceros melampus" ; Times: 6
+	Query: "genus:Malpolon preparations:tissue" ; Times: 2
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "MZB" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "genus:Andrias specificepithet:davidianus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1367 download events in this period)
+Total number of records downloaded: 977
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Israel ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 7
+	Country: Benin ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-25 ; Times: 2
+	Date: 2019-11-06 ; Times: 3
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Malpolon preparations:tissue" ; Times: 1
+	Query: "order:Charadriiformes" ; Times: 2
+	Query: "capra spain" ; Times: 1
+	Query: "order:passeriformes institutioncode:MCNB" ; Times: 1
+	Query: "sus spain" ; Times: 1
+	Query: "Andrias" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 1
+	Query: "specificepithet:carbonaria class:reptilia" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 1
+	Query: "family:Canidae (zoo OR captive)" ; Times: 1
+	Query: "family:Elephantidae hastissue:1" ; Times: 3
+	Query: "genus:Vulpes family:Canidae class:Mammalia hastissue:1" ; Times: 1
+
+
+End of report.

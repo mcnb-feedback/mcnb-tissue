@@ -1,0 +1,99 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 143
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-23 ; Times: 4
+	Date: 2020-03-10 ; Times: 3
+	Date: 2020-03-18 ; Times: 2
+	Date: 2020-03-14 ; Times: 5
+	Date: 2020-03-06 ; Times: 3
+	Date: 2020-03-01 ; Times: 1
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-03 ; Times: 6
+	Date: 2020-03-02 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ara chloropterus" ; Times: 1
+	Query: "genus:Gazella specificepithet:dorcas" ; Times: 3
+	Query: "specificepithet:vison genus:Neovison hastissue:1" ; Times: 2
+	Query: "family:Herpestidae hastissue:1" ; Times: 1
+	Query: "genus:Papio specificepithet:hamadryas" ; Times: 2
+	Query: "family:viverridae hastissue:1" ; Times: 2
+	Query: "crocodylus siamensis" ; Times: 1
+	Query: "aldabrachelys" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Rhinolophus ferrumequinum" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 4
+	Query: "family:Viverridae" ; Times: 1
+	Query: "Auxis rochei" ; Times: 1
+	Query: "Cuculus canorus" ; Times: 1
+	Query: "genus:Acinonyx specificepithet:jubatus" ; Times: 3
+	Query: "acrocephalus arundinaceus" ; Times: 2
+	Query: "neovison vison" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "pelecanus crispus" ; Times: 1
+	Query: "vntype:specimen family:Herpestidae hastissue:1" ; Times: 1
+	Query: "F. domesticus" ; Times: 1
+	Query: "diomedea hastissue:1" ; Times: 1
+	Query: "Pteropus lylei" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 853 download events in this period)
+Total number of records downloaded: 215
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gopherus" ; Times: 1
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "family:Rhinolophidae hastissue:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "procellariiformes hastissue:1" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 2
+	Query: "Martes foina" ; Times: 1
+	Query: "Tapirus terrestris" ; Times: 1
+
+
+End of report.

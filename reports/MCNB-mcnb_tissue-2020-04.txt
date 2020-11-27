@@ -1,0 +1,164 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 374
+Number of records retrieved in searches: 2287
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 354
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: India ; Times: 10
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-07 ; Times: 122
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-17 ; Times: 9
+	Date: 2020-04-16 ; Times: 3
+	Date: 2020-04-14 ; Times: 6
+	Date: 2020-04-30 ; Times: 2
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 140
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-03 ; Times: 42
+	Date: 2020-04-29 ; Times: 2
+	Date: 2020-04-08 ; Times: 45
+
+List of queries that retrieved data from the resource: 
+	Query: "Ardea purpurea" ; Times: 9
+	Query: "gypaetus" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 3
+	Query: "Athene noctua" ; Times: 1
+	Query: "specificepithet:roseicollis genus:Agapornis hastissue:1" ; Times: 1
+	Query: "Stercorarius skua" ; Times: 2
+	Query: "Apus melba" ; Times: 7
+	Query: "Crocodylus siamensis" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 15
+	Query: "Ixobrychus minutus" ; Times: 3
+	Query: "Cercocebus torquatus" ; Times: 4
+	Query: "Tadorna tadorna" ; Times: 13
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "Calonectris diomedea" ; Times: 3
+	Query: "Crocidura russula" ; Times: 4
+	Query: "Capreolus capreolus" ; Times: 2
+	Query: "Cervus axis" ; Times: 3
+	Query: "Cygnus olor" ; Times: 10
+	Query: "Erithacus rubecula" ; Times: 4
+	Query: "Felis silvestris" ; Times: 5
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Hippolais polyglotta" ; Times: 4
+	Query: "Corvus corone" ; Times: 9
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 6
+	Query: "Aix galericulata" ; Times: 2
+	Query: "eunectes murinus" ; Times: 1
+	Query: "Mandrillus sphinx" ; Times: 4
+	Query: "Turdus merula" ; Times: 14
+	Query: "Marmaronetta angustirostris" ; Times: 13
+	Query: "Ciconia ciconia" ; Times: 6
+	Query: "Cercopithecus nictitans" ; Times: 4
+	Query: "Delichon urbica" ; Times: 3
+	Query: "Sylvia atricapilla" ; Times: 2
+	Query: "Phoenicurus ochruros" ; Times: 4
+	Query: "Ateles belzebuth" ; Times: 2
+	Query: "Saguinus midas" ; Times: 2
+	Query: "Tapirus terrestris" ; Times: 11
+	Query: "Columba palumbus" ; Times: 3
+	Query: "Leptailurus serval" ; Times: 4
+	Query: "Apus pallidus" ; Times: 3
+	Query: "Aythya fuligula" ; Times: 6
+	Query: "Rallus aquaticus" ; Times: 4
+	Query: "Netta rufina" ; Times: 6
+	Query: "Platalea leucorodia" ; Times: 1
+	Query: "Pelecanus crispus" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 5
+	Query: "python reticulatus" ; Times: 1
+	Query: "Panthera tigris" ; Times: 6
+	Query: "Oryx dammah" ; Times: 5
+	Query: "Puffinus gravis" ; Times: 3
+	Query: "Spheniscus humboldti" ; Times: 4
+	Query: "Callithrix penicillata" ; Times: 2
+	Query: "Panthera onca" ; Times: 4
+	Query: "Hydrochoerus hydrochaeris" ; Times: 8
+	Query: "Sander lucioperca" ; Times: 11
+	Query: "genus:Agapornis hastissue:1" ; Times: 2
+	Query: "Aegithalos caudatus" ; Times: 4
+	Query: "Lutra lutra" ; Times: 9
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Anas penelope" ; Times: 11
+	Query: "Meles meles" ; Times: 4
+	Query: "Circaetus gallicus" ; Times: 2
+	Query: "Ciconia nigra" ; Times: 2
+	Query: "Ardea cinerea" ; Times: 9
+	Query: "Scardinius erythrophthalmus" ; Times: 19
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "Alectoris rufa" ; Times: 6
+	Query: "F. domesticus" ; Times: 5
+	Query: "Mandrillus leucophaeus" ; Times: 4
+	Query: "Recurvirostra avosetta" ; Times: 2
+	Query: "Phylloscopus collybita" ; Times: 4
+	Query: "Silurus glanis" ; Times: 2
+	Query: "Phalacrocorax aristotelis" ; Times: 4
+	Query: "Gyps fulvus" ; Times: 4
+	Query: "Papio hamadryas" ; Times: 4
+	Query: "Saimiri sciureus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1171 download events in this period)
+Total number of records downloaded: 132
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Argentina ; Times: 7
+	Country: Australia ; Times: 3
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 1
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-21 ; Times: 2
+	Date: 2020-04-26 ; Times: 2
+	Date: 2020-04-27 ; Times: 2
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-28 ; Times: 5
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "vntype:specimen family:Myoxidae" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Crocodylus siamensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 7
+	Query: "Paleosuchus palpebrosus" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "vntype:specimen family:Gliridae" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "rhinoclemmys pulcherrima" ; Times: 1
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+
+
+End of report.

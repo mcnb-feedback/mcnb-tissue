@@ -1,0 +1,83 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 35
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-26 ; Times: 1
+	Date: 2019-12-07 ; Times: 4
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-10 ; Times: 3
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-05 ; Times: 3
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Puffinus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 2
+	Query: "panthera uncia" ; Times: 3
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "vntype:specimen genus:Fulmarus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:Procellaria hastissue:1" ; Times: 1
+	Query: "SERVAL" ; Times: 1
+	Query: "chelonoidis carbonaria" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 3
+	Query: "genus:Calonectris hastissue:1" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 596 download events in this period)
+Total number of records downloaded: 248
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Paraguay ; Times: 1
+	Country: Belgium ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 2
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-08 ; Times: 3
+	Date: 2019-12-07 ; Times: 4
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-04 ; Times: 2
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Circus aeruginosus" ; Times: 1
+	Query: "vntype:specimen genus:Puffinus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Fulmarus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "genus:Procellaria hastissue:1" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 1
+	Query: "genus:Calonectris hastissue:1" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "specificepithet:major genus:Parus class:Aves hastissue:1" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+
+
+End of report.

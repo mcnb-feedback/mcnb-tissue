@@ -1,0 +1,65 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 43
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 29
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-15 ; Times: 3
+	Date: 2020-06-29 ; Times: 1
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-16 ; Times: 1
+	Date: 2020-06-11 ; Times: 9
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-10 ; Times: 9
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-17 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lutra genus:lutra country:&#34;spain&#34;" ; Times: 1
+	Query: "Anas penelope" ; Times: 6
+	Query: "Sus scrofa" ; Times: 6
+	Query: "acrocephalus arundinaceus" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 12
+	Query: "class:Aves country:&#34;Colombia&#34; hastissue:1" ; Times: 2
+	Query: "Hexaprotodon liberiensis vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "Panthera uncia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 474 download events in this period)
+Total number of records downloaded: 20
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-10 ; Times: 2
+	Date: 2020-06-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:lutra genus:lutra country:&#34;spain&#34;" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+
+
+End of report.

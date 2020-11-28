@@ -1,0 +1,94 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 21
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-06 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU)" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU)" ; Times: 1
+	Query: "genus:Neovison hastissue:1" ; Times: 2
+	Query: "specificepithet:niloticus genus:varanus hastissue:1" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM)" ; Times: 1
+	Query: "aldabrachelys" ; Times: 1
+	Query: "specificepithet:melanocephala genus:sylvia hastissue:1" ; Times: 1
+	Query: "specificepithet:molurus genus:Python preparations:tissue" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "specificepithet:pachygaster genus:sphoeroides hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 1
+	Query: "Eunectes murinus murinus" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM)" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "gavia AND (&#34;alc&#34; OR &#34;alcohol&#34;)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 940 download events in this period)
+Total number of records downloaded: 65
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: United States ; Times: 4
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-06 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "lutra lutra" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Petronia hastissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+
+
+End of report.

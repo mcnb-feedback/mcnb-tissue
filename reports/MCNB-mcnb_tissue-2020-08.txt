@@ -1,0 +1,119 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 201
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: France ; Times: 5
+	Country: United Kingdom ; Times: 31
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-11 ; Times: 2
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-07 ; Times: 2
+	Date: 2020-08-17 ; Times: 3
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-10 ; Times: 4
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-29 ; Times: 4
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-19 ; Times: 4
+	Date: 2020-08-21 ; Times: 31
+
+List of queries that retrieved data from the resource: 
+	Query: "Scyliorhinus canicula" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Miopithecus talapoin" ; Times: 1
+	Query: "aldabrachelys" ; Times: 1
+	Query: "specificepithet:canorus genus:Cuculus hastissue:1" ; Times: 2
+	Query: "Turdus philomelos" ; Times: 1
+	Query: "Cercocebus torquatus" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "specificepithet:senator genus:Lanius country:&#34;Spain&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Periparus ater" ; Times: 1
+	Query: "Corvus corone" ; Times: 1
+	Query: "Mandrillus sphinx" ; Times: 1
+	Query: "Phalacrocorax aristotelis" ; Times: 1
+	Query: "Mandrillus leucophaeus" ; Times: 1
+	Query: "Cercopithecus nictitans" ; Times: 1
+	Query: "Pongo pygmaeus" ; Times: 1
+	Query: "Panthera onca hastissue:1" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "Columba palumbus" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "genus:Goura" ; Times: 1
+	Query: "mappable:1 scientificname:Myiopsitta monachus" ; Times: 1
+	Query: "Marmaronetta angustirostris" ; Times: 1
+	Query: "Panthera uncia hastissue:1" ; Times: 1
+	Query: "Sitta europaea" ; Times: 1
+	Query: "mappable:1 scientificname:Genetta genetta" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "Lycaon pictus hastissue:1" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "vntype:specimen specificepithet:senator genus:Lanius basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Psittacula krameri" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 2
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Lycaon pictus" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Scomber scombrus" ; Times: 3
+	Query: "genetta" ; Times: 1
+	Query: "Eclectus roratus" ; Times: 1
+	Query: "genus:Pongo hastissue:1" ; Times: 4
+	Query: "F. domesticus" ; Times: 1
+	Query: "Python molurus bivittatus" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:MCNB" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Phylloscopus collybita" ; Times: 1
+	Query: "Delichon urbicum" ; Times: 1
+	Query: "Aegithalos caudatus" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "Papio hamadryas" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 756 download events in this period)
+Total number of records downloaded: 4442
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-30 ; Times: 2
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-26 ; Times: 4
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 2
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:pongo" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "class:Mammalia" ; Times: 3
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "specificepithet:tigris genus:Panthera" ; Times: 2
+	Query: "genus:Pongo" ; Times: 1
+	Query: "family:alcedinidae hastissue:1" ; Times: 1
+
+
+End of report.

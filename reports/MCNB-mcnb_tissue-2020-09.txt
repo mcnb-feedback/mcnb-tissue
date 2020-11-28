@@ -1,0 +1,128 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 396
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 32
+	Country: Portugal ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 11
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 8
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 4
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-17 ; Times: 12
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-24 ; Times: 4
+	Date: 2020-09-13 ; Times: 3
+	Date: 2020-09-29 ; Times: 2
+	Date: 2020-09-18 ; Times: 5
+	Date: 2020-09-19 ; Times: 8
+	Date: 2020-09-09 ; Times: 7
+	Date: 2020-09-03 ; Times: 4
+	Date: 2020-09-23 ; Times: 8
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Scyliorhinus canicula" ; Times: 1
+	Query: "Falco subbuteo hastissue:1" ; Times: 1
+	Query: "genus:Meles hastissue:1" ; Times: 2
+	Query: "aldabrachelys" ; Times: 2
+	Query: "specificepithet:genetta genus:Genetta hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:urogallus genus:Tetrao continent:Europe (uralensis OR volgensis OR aquitanicus) hassex:1" ; Times: 5
+	Query: "specificepithet:martes genus:Martes hastissue:1" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra hastissue:1" ; Times: 1
+	Query: "genus:Leptailurus hastissue:1" ; Times: 1
+	Query: "family:Herpestidae hastissue:1" ; Times: 1
+	Query: "specificepithet:foina genus:Martes hastissue:1" ; Times: 1
+	Query: "APUS pallidus" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 2
+	Query: "Gypaetus barbatus hastissue:1" ; Times: 1
+	Query: "Seriola dumerili" ; Times: 1
+	Query: "Rallus aquaticus hastissue:1" ; Times: 1
+	Query: "puffinus puffinus year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "genus:Herpestes hastissue:1" ; Times: 1
+	Query: "panthera tigris sumatrae" ; Times: 2
+	Query: "specificepithet:pictus genus:Lycaon" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "Scorpaena scrofa" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "scientificname:Pongo pygmaeus" ; Times: 3
+	Query: "Trachinus radiatus" ; Times: 1
+	Query: "Sparus aurata" ; Times: 1
+	Query: "Tetragonurus cuvieri" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "Carcharhinus melanopterus" ; Times: 1
+	Query: "Falco tinnunculus hastissue:1" ; Times: 1
+	Query: "Xiphias gladius" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "Falco naumanni hastissue:1" ; Times: 2
+	Query: "scientificname:Pongo Pygmaeus" ; Times: 1
+	Query: "animals" ; Times: 1
+	Query: "Aldabrachelys" ; Times: 1
+	Query: "Spheniscus humboldti hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:urogallus genus:tetrao continent:Europe (uralensis OR volgensis OR aquitanicus) hassex:1" ; Times: 1
+	Query: "Sphoeroides pachygaster" ; Times: 1
+	Query: "scientificname:Streptopelia decaocto" ; Times: 10
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:MCNB" ; Times: 2
+	Query: "Taeniopygia guttata hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 976 download events in this period)
+Total number of records downloaded: 393
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-17 ; Times: 5
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-24 ; Times: 4
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-18 ; Times: 2
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "APUS pallidus" ; Times: 1
+	Query: "APUS apus" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:urogallus genus:Tetrao continent:Europe (uralensis OR volgensis OR aquitanicus) hassex:1" ; Times: 5
+	Query: "order:Galliformes hastissue:1" ; Times: 1
+	Query: "family:Canidae hastissue:1" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "vntype:specimen specificepithet:urogallus genus:Tetrao continent:Europe hassex:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:urogallus genus:tetrao continent:Europe (uralensis OR volgensis OR aquitanicus) hassex:1" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+	Query: "sturnus vulgaris" ; Times: 1
+
+
+End of report.

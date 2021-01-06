@@ -1,0 +1,160 @@
+Report for Institution Code MCNB, Resource mcnb_tissue
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 373
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 7
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 26
+	Country: United Kingdom ; Times: 24
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Switzerland ; Times: 2
+	Country: Spain ; Times: 4
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-20 ; Times: 5
+	Date: 2020-12-30 ; Times: 8
+	Date: 2020-12-03 ; Times: 8
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-01 ; Times: 8
+	Date: 2020-12-09 ; Times: 5
+	Date: 2020-12-08 ; Times: 5
+	Date: 2020-12-10 ; Times: 1
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-05 ; Times: 2
+	Date: 2020-12-04 ; Times: 15
+	Date: 2020-12-14 ; Times: 4
+	Date: 2020-12-02 ; Times: 3
+	Date: 2020-12-16 ; Times: 2
+	Date: 2020-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Xiphias gladius" ; Times: 1
+	Query: "scientificname:Dactylopterus volitans" ; Times: 1
+	Query: "scientificname:Scomber scombrus" ; Times: 2
+	Query: "scientificname:Scyliorhinus canicula" ; Times: 2
+	Query: "year &gt;= 2000 year &lt;= 2020 Eliomys quercinus" ; Times: 1
+	Query: "Calonectris diomedea" ; Times: 1
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "scientificname:Thunnus thynnus" ; Times: 1
+	Query: "scientificname:Zeus faber" ; Times: 2
+	Query: "gyps fulvus" ; Times: 2
+	Query: "Uromastyx acanthinurus" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "Hippolais polyglotta" ; Times: 1
+	Query: "scientificname:Sphoeroides pachygaster" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "scientificname:Brama brama" ; Times: 1
+	Query: "Crocidura russula" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 4
+	Query: "Cuora amboinensis" ; Times: 1
+	Query: "scientificname:Scorpaena scrofa" ; Times: 2
+	Query: "Delichon urbica" ; Times: 2
+	Query: "milvus milvus hastissue:1" ; Times: 2
+	Query: "Hemorrhois hippocrepis" ; Times: 1
+	Query: "Picus viridis" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 2
+	Query: "Apus pallidus" ; Times: 1
+	Query: "scientificname:Liza ramada" ; Times: 2
+	Query: "Trachinus radiatus" ; Times: 1
+	Query: "scientificname:Buceros rhinoceros" ; Times: 1
+	Query: "Saguinus midas" ; Times: 1
+	Query: "Mauremys mutica" ; Times: 1
+	Query: "Marmaronetta angustirostris" ; Times: 2
+	Query: "Puffinus gravis" ; Times: 1
+	Query: "MZB 3725" ; Times: 1
+	Query: "scientificname:Sparus aurata" ; Times: 2
+	Query: "scientificname:Tetragonurus cuvieri" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "scientificname:Trachinus radiatus" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 3
+	Query: "scientificname:Raja undulata" ; Times: 1
+	Query: "scientificname:Seriola dumerili" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 4
+	Query: "Hierophis viridiflavus" ; Times: 2
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "scientificname:Coryphaena hippurus" ; Times: 1
+	Query: "scientificname:Auxis rochei" ; Times: 1
+	Query: "Apus melba" ; Times: 1
+	Query: "Bison bonasus" ; Times: 2
+	Query: "scientificname:Scorpaena porcus" ; Times: 1
+	Query: "Aegithalos caudatus" ; Times: 1
+	Query: "scientificname:Carcharhinus melanopterus" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 705 download events in this period)
+Total number of records downloaded: 221
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: Spain ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-23 ; Times: 5
+	Date: 2020-12-31 ; Times: 2
+	Date: 2020-12-02 ; Times: 4
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-07 ; Times: 5
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-04 ; Times: 4
+	Date: 2020-12-03 ; Times: 4
+	Date: 2020-12-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Anas" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "year &gt;= 2000 year &lt;= 2020 Eliomys quercinus" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 2
+	Query: "Atelerix algirus" ; Times: 1
+	Query: "Uromastyx acanthinurus" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Malpolon monspessulanus" ; Times: 1
+	Query: "Hemorrhois hippocrepis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 2
+	Query: "class:aves country:Brazil" ; Times: 3
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Mauremys leprosa" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "Hierophis viridiflavus" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "class:Mammalia country:Brazil" ; Times: 2
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+
+
+End of report.
